@@ -3,7 +3,7 @@ console.log(favSinger[2]);
 
 const FavNumbers = ["12, 14, 4, 36"];
 
-const mixedArr = ["string", ["ontherarray"], 123, true];
+const mixedArr = ["string", ["otherarray"], 123, true];
 console.log(mixedArr[0]);
 console.log(mixedArr[1]);
 console.log(mixedArr[2]);
